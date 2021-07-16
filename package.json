@@ -1,0 +1,28 @@
+{
+  "name": "playwright_tau",
+  "version": "1.0.0",
+  "description": "This repo contain all the examples in this course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest":{
+    "testPathIgnorePatterns":["/tests/"]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ixmeza/playwright_tau.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ixmeza/playwright_tau/issues"
+  },
+  "homepage": "https://github.com/ixmeza/playwright_tau#readme",
+  "devDependencies": {
+    "playwright": "^1.11.1",
+    "jest": "^27.0.6",
+    "@applitools/eyes-playwright": "^1.8.2"
+  }
+}
