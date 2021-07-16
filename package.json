@@ -1,0 +1,23 @@
+{
+  "name": "playwright_tau",
+  "version": "1.0.0",
+  "description": "This repo contain all the examples in this course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ixmeza/playwright_tau.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ixmeza/playwright_tau/issues"
+  },
+  "homepage": "https://github.com/ixmeza/playwright_tau#readme",
+  "devDependencies": {
+    "playwright": "^1.11.1"
+  }
+}
