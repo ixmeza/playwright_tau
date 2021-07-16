@@ -35,3 +35,4 @@ This repo contains the code for the chapters of this course, every chapter has i
 - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing 
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
 - https://www.selenium.dev/documentation/en/guidelines_and_recommendations/page_object_models/
+- https://github.com/microsoft/playwright#-playwright
