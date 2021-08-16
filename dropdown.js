@@ -12,7 +12,7 @@ const { chromium } = require('playwright');
     // label
     await dropdown.selectOption({ label: 'Option 2' });
     // index
-    await dropdown.selectOption({ index: 0 });
+    await dropdown.selectOption({ index: 1 });
     // values inside this select
     const availableOptions = await dropdown.$$('option');
     for (let i = 0; i < availableOptions.length; i++) {
